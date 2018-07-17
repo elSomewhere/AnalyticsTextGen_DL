@@ -10,7 +10,7 @@ THIS: https://www.analyticsvidhya.com/blog/2018/04/solving-an-image-captioning-t
 
 IDEAS / TODO:
 1. smart sorting of available rawDat (sort the text files into asset / research classes using available metadata).
-2. Get more data. Broker accounts for JPM / UBS research data etc etc.
+2. Get more data. Broker accounts for JPM & crawl it, maybe even UBS research data etc etc.
 3. Data cleaning
 4. Build a generative language model to test language modeling & learning architecture approaches (word vs char vs sentence level granularity of generation, embeddings etc.). (currently doing this on character level)
 5. Build a generative model for time series (need to capture features of data & not necessarely forecasts of data - that can be a separate model in itself and may just as well use classical statistical forecasting approaches)
